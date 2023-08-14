@@ -290,8 +290,8 @@
     grid-template-columns: repeat(4, 1fr);
   }
   .grid-template1 img {
-    width: 18.5rem;
-    height: 22rem;
+    width: 16rem;
+    height: 20rem;
   }
   .grid-template1 img:nth-last-child(-n + 2) {
     display: none;
@@ -300,7 +300,7 @@
     grid-template-columns: repeat(3, 1fr);
   }
   .grid-template2 img {
-    width: 22rem;
+    width: 20rem;
   }
   .category {
     grid-template-columns: repeat(5, 1fr);
@@ -308,8 +308,8 @@
     grid-gap: 1.3rem;
   }
   .category img {
-    width: 12rem;
-    height: 18rem;
+    width: 11rem;
+    height: 16rem;
   }
   .category img:nth-child(31) {
     grid-area: 7/2/7/3;
